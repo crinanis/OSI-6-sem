@@ -1,0 +1,4 @@
+﻿  OS09_04.cpp
+D:\1POIT\3\OSI\labs\9\lab9\OS09_04\OS09_04.cpp(78,36): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+D:\1POIT\3\OSI\labs\9\lab9\OS09_04\OS09_04.cpp(103): warning C4715: printWatchRowFileTxt: значение возвращается не при всех путях выполнения
+  OS09_04.vcxproj -> D:\1POIT\3\OSI\labs\9\lab9\x64\Debug\OS09_04.exe
