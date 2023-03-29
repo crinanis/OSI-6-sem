@@ -1,0 +1,3 @@
+﻿d:\SOFT\visual studio\professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OS12_COM_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OS12_02.cpp
+  OS12_COM_2.vcxproj -> D:\1POIT\3\OSI\labs\12\Lab12\Debug\OS12_02.exe
