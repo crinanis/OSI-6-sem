@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  Math.cpp
+  MathFactory.cpp
+  Registry.cpp
+  Создание кода...
+OS_COM.def(1): warning LNK4017: оператор LIBARY не поддерживается на конечной платформе; пропущен
+     Создается библиотека D:\1POIT\3\OSI\puk\6_Sem_OSISP-main\labs\Lab12\Debug\OS12_COM.lib и объект D:\1POIT\3\OSI\puk\6_Sem_OSISP-main\labs\Lab12\Debug\OS12_COM.exp
+  OS12_COM.vcxproj -> D:\1POIT\3\OSI\puk\6_Sem_OSISP-main\labs\Lab12\Debug\OS12_COM.dll
